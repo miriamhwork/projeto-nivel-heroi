@@ -1,5 +1,6 @@
 let nome = "Maria";
 let xp = 1500;
+let = nivel;
 
 if (xp < 1000){
     nivel = "Ferro"
